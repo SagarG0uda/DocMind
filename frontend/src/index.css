@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 40 20% 98%;
+    --foreground: 24 10% 10%;
+    --card: 0 0% 100%;
+    --card-foreground: 24 10% 10%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 24 10% 10%;
+    --primary: 263.4 70% 50.4%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 260 20% 95%;
+    --secondary-foreground: 263.4 50% 30%;
+    --muted: 40 10% 92%;
+    --muted-foreground: 25 5% 45%;
+    --accent: 263.4 60% 94%;
+    --accent-foreground: 263.4 70% 40%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 24 10% 88%;
+    --input: 24 10% 88%;
+    --ring: 263.4 70% 50.4%;
+    --radius: 0.5rem;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+*:focus-visible {
+  outline: 2px solid hsl(var(--primary));
+  outline-offset: 2px;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(124, 58, 237, 0.2);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(124, 58, 237, 0.4);
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+.duration-fast {
+  transition-duration: 120ms;
+}
+
+.duration-base {
+  transition-duration: 200ms;
+}
+
+.easing-standard {
+  transition-timing-function: cubic-bezier(0.2, 0, 0, 1);
+}
+
+.easing-decelerate {
+  transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+}

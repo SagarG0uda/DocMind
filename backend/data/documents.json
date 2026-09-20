@@ -1,0 +1,97 @@
+{
+  "deb75b95-b7f3-414a-bea8-e9cc199201ad": {
+    "document_id": "deb75b95-b7f3-414a-bea8-e9cc199201ad",
+    "filename": "EAI Study Timeline.pdf",
+    "file_size": 75021,
+    "total_pages": 3,
+    "total_chunks": 3,
+    "created_at": 1789432217.1720104,
+    "sample_questions": [
+      "What are the main findings regarding EAI \u2014 Study Timeline\n 6:00 AM \u2192 10:45 AM (Sep 12)  |  Exam w?",
+      "Can you summarize the section on Do's \u2014 Backed by Research\n1?",
+      "What are the key conclusions in this document?"
+    ]
+  },
+  "6007e6ff-de93-4c5e-88d1-290a7dc5fb51": {
+    "document_id": "6007e6ff-de93-4c5e-88d1-290a7dc5fb51",
+    "filename": "EAI Study Priority.pdf",
+    "file_size": 79568,
+    "total_pages": 5,
+    "total_chunks": 5,
+    "created_at": 1789433481.566084,
+    "sample_questions": [
+      "What are the main findings regarding EAI (22EC752) \u2014 Study Priority\n Embedded AI  |  CIE-1  |  Bu?",
+      "Can you summarize the section on \u2022 AIMET (AI Model Efficiency Toolkit): quantizes/compresses?",
+      "What are the key conclusions in this document?"
+    ]
+  },
+  "7cba2415-cf99-4d08-a172-45c3dbb689a7": {
+    "document_id": "7cba2415-cf99-4d08-a172-45c3dbb689a7",
+    "session_id": "af834739-9101-437b-bddc-a878f0e749dd",
+    "filename": "EAI Study Timeline.pdf",
+    "file_size": 75021,
+    "total_pages": 3,
+    "total_chunks": 3,
+    "created_at": 1789434165.9720132,
+    "sample_questions": [
+      "What are the main findings regarding EAI \u2014 Study Timeline\n 6:00 AM \u2192 10:45 AM (Sep 12)  |  Exam w?",
+      "Can you summarize the section on Do's \u2014 Backed by Research\n1?",
+      "What are the key conclusions in this document?"
+    ]
+  },
+  "cde32567-04dc-4741-be1e-ba4deba6c44a": {
+    "document_id": "cde32567-04dc-4741-be1e-ba4deba6c44a",
+    "session_id": "af834739-9101-437b-bddc-a878f0e749dd",
+    "filename": "EAI Study Priority.pdf",
+    "file_size": 79568,
+    "total_pages": 5,
+    "total_chunks": 5,
+    "created_at": 1789434177.731118,
+    "sample_questions": [
+      "What are the main findings regarding EAI (22EC752) \u2014 Study Priority\n Embedded AI  |  CIE-1  |  Bu?",
+      "Can you summarize the section on \u2022 AIMET (AI Model Efficiency Toolkit): quantizes/compresses?",
+      "What are the key conclusions in this document?"
+    ]
+  },
+  "3d87d8b0-3e06-4234-92fe-8073db553aab": {
+    "document_id": "3d87d8b0-3e06-4234-92fe-8073db553aab",
+    "session_id": "af834739-9101-437b-bddc-a878f0e749dd",
+    "filename": "EAI Study Timeline.pdf",
+    "file_size": 75021,
+    "total_pages": 3,
+    "total_chunks": 3,
+    "created_at": 1789434187.4935894,
+    "sample_questions": [
+      "What are the main findings regarding EAI \u2014 Study Timeline\n 6:00 AM \u2192 10:45 AM (Sep 12)  |  Exam w?",
+      "Can you summarize the section on Do's \u2014 Backed by Research\n1?",
+      "What are the key conclusions in this document?"
+    ]
+  },
+  "37387791-ce23-408d-953a-a62ee5858ef6": {
+    "document_id": "37387791-ce23-408d-953a-a62ee5858ef6",
+    "session_id": "smoke_session_1789437687",
+    "filename": "single_page_smoke.pdf",
+    "file_size": 1413,
+    "total_pages": 1,
+    "total_chunks": 1,
+    "created_at": 1789437689.9017785,
+    "sample_questions": [
+      "What are the main findings regarding Single Page Test Document\nThis is a 1-page document testing?",
+      "What are the key conclusions in this document?"
+    ]
+  },
+  "5eaa02eb-f10b-44d2-8774-3e28a446e82b": {
+    "document_id": "5eaa02eb-f10b-44d2-8774-3e28a446e82b",
+    "session_id": "e3fba620-f039-4ec9-a96a-b2e036e7a036",
+    "filename": "EAI Study Timeline.pdf",
+    "file_size": 75021,
+    "total_pages": 3,
+    "total_chunks": 3,
+    "created_at": 1789437888.054353,
+    "sample_questions": [
+      "What are the main findings regarding EAI \u2014 Study Timeline\n 6:00 AM \u2192 10:45 AM (Sep 12)  |  Exam w?",
+      "Can you summarize the section on Do's \u2014 Backed by Research\n1?",
+      "What are the key conclusions in this document?"
+    ]
+  }
+}
